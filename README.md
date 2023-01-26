@@ -31,6 +31,7 @@ In multiprogramming systems, processes running concurrently may generate request
 ### :zap: Conclusion
 
 We have calculated the average total head movement after entering the various runs for the requests of different algorithms because total head movement is the criteria for analyzing the disk scheduling algorithms. After comparing the total head movement of various algorithms, we have found that the Shortest Seek Time First disk scheduling algorithm has the least average head movement than the others discussed above in context to total head movement. 
+
 ---
 
 <div id="header" align="center">
